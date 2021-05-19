@@ -8,19 +8,15 @@ Wrapper for automatic reception of SMS-messages by activation.pw
 [![N|Solid](https://img.shields.io/pypi/pyversions/activationpw.svg)](https://pypi.python.org/pypi/activationpw)
 
 ### Installation
-You can install or upgrade package with:
+You can install from source with:
 ```
-$ pip install activationpw --upgrade
-```
-Or you can install from source with:
-```
-$ git clone https://github.com/tezmen/python-python-activation.pw
+$ git clone https://github.com/activationpw/python-activation.pw.git
 $ cd python-python-activation.pw
 $ python setup.py install
 ```
 ...or install from source but without pip:
 ```
-$ pip install git+https://github.com/tezmen/python-python-activation.pw
+$ pip install git+https://github.com/activationpw/python-activation.pw.git
 ```
 ### Example
 ```python
