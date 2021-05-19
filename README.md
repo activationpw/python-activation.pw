@@ -5,8 +5,6 @@
 
 Wrapper for automatic reception of SMS-messages by activation.pw
 
-[![N|Solid](https://img.shields.io/pypi/pyversions/activationpw.svg)](https://pypi.python.org/pypi/activationpw)
-
 ### Installation
 You can install from source with:
 ```
