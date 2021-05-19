@@ -9,7 +9,7 @@ Wrapper for automatic reception of SMS-messages by activation.pw
 You can install from source with:
 ```
 $ git clone https://github.com/activationpw/python-activation.pw.git
-$ cd python-python-activation.pw
+$ cd python-activation.pw
 $ python setup.py install
 ```
 ...or install from source but without pip:
@@ -42,7 +42,7 @@ More examples located in /example/ dir
 Установка напрямую из репозитория, с ручной сборкой
 ```
 $ git clone https://github.com/tezmen/python-python-activation.pw
-$ cd python-python-activation.pw
+$ cd python-activation.pw
 $ python setup.py install
 ```
 ...либо установка через pip но из репозитория, минуя сервера pypi
