@@ -37,14 +37,9 @@ More examples located in /example/ dir
 ----
 Библиотека на python для работы с api сервиса автоматического приёма смс – activation.pw
 
-[![N|Solid](https://img.shields.io/pypi/pyversions/activationpw.svg)](https://pypi.python.org/pypi/activationpw)
 
 ### Установка
-Установка с помощью стандартного пакетного менеджера pip:
-```
-$ pip install activationpw --upgrade
-```
-Либо установка напрямую из репозитория, с ручной сборкой
+Установка напрямую из репозитория, с ручной сборкой
 ```
 $ git clone https://github.com/tezmen/python-python-activation.pw
 $ cd python-python-activation.pw
